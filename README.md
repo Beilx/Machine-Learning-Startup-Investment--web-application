@@ -1,2 +1,2 @@
 # StartupInvestapp
-ML startup classifier
+Random forest startup classifier
